@@ -1,3 +1,4 @@
+// Post creation of extra remote
 /**
  * A class to represent items stored in Batman's utility belt. Several copies of an item may appear
  * in the Utility belt (e.g. 5 batarangs), so the Equipment class keeps a count variable tracking

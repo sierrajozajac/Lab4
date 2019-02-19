@@ -1,3 +1,4 @@
+// Post creation of extra remote
 /**
  * Class to represent an animal in a zoo. Animals have a color, name, weight, and height.
  *
